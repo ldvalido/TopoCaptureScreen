@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>07/08/2008 23:53:31 Begin analysis with NDepend v2.9.0.2187</Info>
+  <Info>07/08/2008 23:53:31 Retrieve dependencies of your application.</Info>
+  <Warning>Cant' load the assembly {TopoCaptureScreen}:
+Can't find the .NET assembly {TopoCaptureScreen} in specified dirs</Warning>
+  <Warning>No assemblies found in directory {H:\WINDOWS\Microsoft.NET\Framework\v2.0.50727}</Warning>
+  <Warning>No assemblies found in directory {H:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0}</Warning>
+  <Warning>No assemblies found in directory {H:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5}</Warning>
+  <Warning>No assemblies found in directory {H:\Proyects\CaptureScreen\TopoCaptureScreen\bin\Debug}</Warning>
+  <Info>0 CQL constraint has been extracted from code.</Info>
+  <Info>07/08/2008 23:53:32 Analyse dependencies of your application.</Info>
+  <Info>No dependency cycle detected in assemblies referencement graph.</Info>
+  <Info>07/08/2008 23:53:37 End NDepend analyse.</Info>
+  <Info>07/08/2008 23:53:37 Duration: 00:00:05</Info>
+  <Info>07/08/2008 23:53:37 Building the report (standard).</Info>
+</InfoWarnings>

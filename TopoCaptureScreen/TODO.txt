@@ -1,0 +1,8 @@
+* Capturar Teclas
+* Envio y recepcioon de archivos on Demand - OK
+* Facilidad de Instalación del servicio.Evitar configuración manual
+
+--Otras Etapas
+* Ventana activa unicamente
+* Poder Hacer estadisticas del tiempo de cada ventana abierta (Estilo Rescue Time)
+

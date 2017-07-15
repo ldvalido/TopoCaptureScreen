@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<params>
+  <param name="tempFolder" value="D:\Temp"/>
+  <param name="screenTimer" value="5000"/>
+  <param name="imageExtension" value=".jpg"/>
+  <param name="packageExtension" value=".zip"/>
+  <param name="maximmiumValue" value="2000000"/>
+  <param name="ftpSenderTimer" value="10000"/>
+  <param name="ftpHost" value="localhost"/>
+  <param name="ftpUserName" value="leandro"/>
+  <param name="ftpUserPassword" value="03R33bpmdq"/>
+  <param name="stmtFile" value="statements.xml"/>
+</params>
